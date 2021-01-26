@@ -1,0 +1,22 @@
+Develop, design and architect solution using AWS foundation services- VPC, Compute, Storage, Network and Security
+
+Provisioning infrastructure using IAC tools- Ansible,CloudFormation, Terraform etc,
+
+Configuring AWS serverless stack (Lambda, S3, API Gateway, SQS/SNS, CloudWatch)
+
+Configuring AWS Security toolset- IAM, KMS Encryption, Security Groups, Network ACLs,WAF, Service Control Policies,Secrets Manager etc,
+
+Lift and shift as well as cloud native implementations on AWS spanning multiple AZs
+
+Manage S3 Life cycle management 
+
+Bootstrapping the AMI images with custom scripts or using Hashicorp Packer
+
+Configure AWS database solutions such as Amazon RDS, Aurora, DynamoDB etc. and migration of data using Amazon DMS
+
+Provision Route 53, Load Balancers,
+
+Automate monitoring using Cloudwatch alarms/events,cloud trail,Splunk,AppDynamics etc,
+
+Configure Auto scaling groups based on usage and create spot instances where applicable.
+
